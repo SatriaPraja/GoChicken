@@ -8,7 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Funart</title>
+	<title>GoChicken</title>
 	<link rel="stylesheet" type="text/css" href="css/styleadmin.css">
 	<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 </head>
@@ -16,7 +16,7 @@
 	<!-- header -->
 	<header>
 		<div class="container">
-			<h1><a href="index.php">Funart</a></h1>
+			<h1><a href="index.php">GoChicken</a></h1>
 			<ul>
 				<li><a href="produk.php">Produk</a></li>
 			</ul>

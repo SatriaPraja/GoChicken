@@ -14,7 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="css/styleproduk.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Funart</title>
+    <title>GoChicken</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 
@@ -35,7 +35,7 @@
             <a class="navigasi" href="home.php">Home</a>
             <a class="navigasi" href="produk.php">Product</a>
             <a class="navigasi" href="about.php">About</a>
-            <button class="but1"><a href="login.php">Login</a></button>
+    
           </div>
         </div>
       </div>

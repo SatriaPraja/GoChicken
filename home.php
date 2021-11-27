@@ -19,10 +19,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
-    <title>LATIHAN</title>
+    <title>GoChicken</title>
   </head>
   <body>
-  	<link rel="stylesheet" type="text/css" href="css/styleui1.css">
+  	<link rel="stylesheet" type="text/css" href="css/styleui.css">
   	<!-- NAVBAR -->
  
     <nav class="navbar navbar-expand-lg navbar-light bg-light navbar fixed-top navbar-light bg-light " >
@@ -36,7 +36,7 @@
             <a class="navigasi" href="home.php">Home</a>
             <a class="navigasi" href="produk.php">Product</a>
             <a class="navigasi" href="about.php">About</a>
-            <button class="but1"><a href="login.php">Login</a></button>
+            
           </div>
         </div>
       </div>
